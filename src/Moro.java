@@ -6,13 +6,13 @@ public class Moro {
 		
 		Random random = new Random ();
 		
-	//	int randomNumber = random.nextInt (30);
-	//	System.out.println ("Iiron lottorivi numero 1-30: " + randomNumber);
+	//	int randomNumber = random.nextInt (39);
+	//	System.out.println ("Iiron lottorivi numero 1-39: " + randomNumber);
 	
 		
-		int randomNumber = random.nextInt (30)+ 1;
+		int randomNumber = random.nextInt (39)+ 1;
 		
-		System.out.println ("Iironi lottorivi numero 1-30 :" + randomNumber);
+		System.out.println ("Iironi lottorivi numero 1-39 :" + randomNumber);
 		
 		
 		
