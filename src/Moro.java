@@ -6,8 +6,8 @@ public class Moro {
 		
 		Random random = new Random ();
 		
-	//	int randomNumber = random.nextInt (5);
-	//	System.out.println ("Random number between 0-4: " + randomNumber);
+	//	int randomNumber = random.nextInt (30);
+	//	System.out.println ("Iiron lottorivi numero 1-30: " + randomNumber);
 	
 		
 		int randomNumber = random.nextInt (30)+ 1;
