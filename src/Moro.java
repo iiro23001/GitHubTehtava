@@ -3,7 +3,7 @@
 public class Moro {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Random random = new Random ();
 		
 	//	int randomNumber = random.nextInt (5);
